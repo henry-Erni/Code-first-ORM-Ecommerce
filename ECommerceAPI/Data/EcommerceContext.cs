@@ -19,6 +19,7 @@ namespace ECommerceAPI.Data
         public DbSet<Products> Products { get; set; }
 
         public DbSet<ReviewComments> ReviewComments { get; set; }
+        public DbSet<Likes> Likes { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -76,7 +77,17 @@ namespace ECommerceAPI.Data
                 .WithOne(u => u.Role)
                 .HasForeignKey(u => u.RoleId);
 
-           
+            //Likes Relationships
+            modelBuilder.Entity<Likes>()
+                .HasOne(l => l.User)
+                .WithMany(u => u.Likes)
+                .HasForeignKey(l => l.UserId);
+            modelBuilder.Entity<Likes>()
+                .HasOne(l => l.Product)
+                .WithMany(r => r.Likes)
+                .HasForeignKey(l => l.ProductId);
+
+
         }
     }
 }

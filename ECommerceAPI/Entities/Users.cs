@@ -14,6 +14,7 @@ namespace ECommerceAPI.Entities
 
         public ICollection<Reviews>? Reviews { get; set; }
         public ICollection<ReviewComments>? ReviewComments { get; set; }
+        public ICollection<Likes>? Likes { get; set; }
 
         //Foreign key for Role Id
         public int RoleId { get; set; }

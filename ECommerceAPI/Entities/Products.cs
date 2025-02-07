@@ -17,5 +17,6 @@ namespace ECommerceAPI.Entities
         public DateTime UpdatedAt { get; set; }
 
         public ICollection<Reviews>? Reviews { get; set; }
+        public ICollection<Likes>? Likes { get; set; }
     }
 }
