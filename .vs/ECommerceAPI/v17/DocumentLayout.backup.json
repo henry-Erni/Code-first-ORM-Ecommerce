@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\data\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\data\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064646_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerceAPI\\Migrations\\20250207064646_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\entities\\reviewcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\entities\\reviewcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064132_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerceAPI\\Migrations\\20250207064132_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\entities\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\extarhe\\source\\repos\\ecommerceapi\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EBCD9E6-F755-4505-ADB0-39569657AE4E}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Users.cs",
+              "RelativeToolTip": "ECommerceAPI\\Entities\\Users.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:49:53.031Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:57:24.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:20:03.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Roles.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Entities\\Roles.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Roles.cs",
+              "RelativeToolTip": "ECommerceAPI\\Entities\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:48:21.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Reviews.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Entities\\Reviews.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Reviews.cs",
+              "RelativeToolTip": "ECommerceAPI\\Entities\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:52:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Data\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Data\\EcommerceContext.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Data\\EcommerceContext.cs",
+              "RelativeToolTip": "ECommerceAPI\\Data\\EcommerceContext.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:55:22.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\Products.cs",
+              "RelativeToolTip": "ECommerceAPI\\Entities\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:05:26.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T02:20:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250207064646_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064646_Initial.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Migrations\\20250207064646_Initial.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064646_Initial.cs",
+              "RelativeToolTip": "ECommerceAPI\\Migrations\\20250207064646_Initial.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:46:46.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ECommerceAPI",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceAPI\\ECommerceAPI.csproj",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\ECommerceAPI.csproj",
+              "RelativeToolTip": "ECommerceAPI\\ECommerceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T04:54:11.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250207064132_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064132_Initial.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Migrations\\20250207064132_Initial.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Migrations\\20250207064132_Initial.cs",
+              "RelativeToolTip": "ECommerceAPI\\Migrations\\20250207064132_Initial.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:41:32.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReviewComments.cs",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\ReviewComments.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Entities\\ReviewComments.cs",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\Entities\\ReviewComments.cs",
+              "RelativeToolTip": "ECommerceAPI\\Entities\\ReviewComments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:38:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ECommerceAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\appsettings.Development.json",
+              "RelativeToolTip": "ECommerceAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T06:26:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\extarhe\\source\\repos\\ECommerceAPI\\ECommerceAPI\\appsettings.json",
+              "RelativeToolTip": "ECommerceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T02:57:57.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
