@@ -156,3 +156,4 @@ C:\Users\extarhe\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net9.0\ref\ECo
 C:\Users\extarhe\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\extarhe\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\extarhe\source\repos\ECommerceAPI\ECommerceAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\extarhe\source\repos\ECommerceAPI\ECommerceAPI\obj\Debug\net9.0\ECommerceAPI.sourcelink.json

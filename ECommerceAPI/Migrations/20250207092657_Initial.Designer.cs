@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerceAPI.Migrations
 {
     [DbContext(typeof(EcommerceContext))]
-    [Migration("20250207064646_Initial")]
+    [Migration("20250207092657_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -24,6 +24,32 @@ namespace ECommerceAPI.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("ECommerceAPI.Entities.Likes", b =>
+                {
+                    b.Property<int>("LikeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LikeId"));
+
+                    b.Property<DateTime>("LikedAt")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.HasKey("LikeId");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Likes");
+                });
 
             modelBuilder.Entity("ECommerceAPI.Entities.Products", b =>
                 {
@@ -182,6 +208,25 @@ namespace ECommerceAPI.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("ECommerceAPI.Entities.Likes", b =>
+                {
+                    b.HasOne("ECommerceAPI.Entities.Products", "Product")
+                        .WithMany("Likes")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ECommerceAPI.Entities.Users", "User")
+                        .WithMany("Likes")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("User");
+                });
+
             modelBuilder.Entity("ECommerceAPI.Entities.ReviewComments", b =>
                 {
                     b.HasOne("ECommerceAPI.Entities.Reviews", "Reviews")
@@ -233,6 +278,8 @@ namespace ECommerceAPI.Migrations
 
             modelBuilder.Entity("ECommerceAPI.Entities.Products", b =>
                 {
+                    b.Navigation("Likes");
+
                     b.Navigation("Reviews");
                 });
 
@@ -248,6 +295,8 @@ namespace ECommerceAPI.Migrations
 
             modelBuilder.Entity("ECommerceAPI.Entities.Users", b =>
                 {
+                    b.Navigation("Likes");
+
                     b.Navigation("ReviewComments");
 
                     b.Navigation("Reviews");
